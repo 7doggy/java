@@ -29,6 +29,7 @@ public class ButtonFrame extends JFrame {
 		panel.add(blueButton);
 		panel.add(redButton);
 		
+		this.setVisible(true);
 	}
 	
 	
